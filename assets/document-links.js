@@ -18,20 +18,20 @@
 // ============================================================================
 
 window.SECTION_DOCS = {
-  "01": "REPLACE_ME_01", // Property Information
-  "02": "REPLACE_ME_02", // Zoning & Planning
-  "03": "REPLACE_ME_03", // Government Approvals
-  "04": "REPLACE_ME_04", // Utilities
-  "05": "REPLACE_ME_05", // Infrastructure
-  "06": "REPLACE_ME_06", // Environmental
-  "07": "REPLACE_ME_07", // Engineering
-  "08": "REPLACE_ME_08", // Architectural
-  "09": "REPLACE_ME_09", // Financial Model
-  "10": "REPLACE_ME_10", // Legal
-  "11": "REPLACE_ME_11", // Market Research
-  "12": "REPLACE_ME_12", // Risk Analysis
-  "13": "REPLACE_ME_13", // Schedule
-  "14": "REPLACE_ME_14", // ESG
-  "15": "REPLACE_ME_15", // Team
-  "16": "REPLACE_ME_16"  // Appendix
+  "01": "https://drive.google.com/drive/folders/1FdH9pLQ5Gjqjwj08NrERJCl01WIWaBiN", // Property Information
+  "02": "http://drive.google.com/open?id=1Hskz2wyX6pNj8kUuCN45yteHXwTO8jyy&resourcekey=", // Zoning & Planning
+  "03": "http://drive.google.com/open?id=1drDXJl7yxBrr23lUoMS7XDaelafHub-H&resourcekey=", // Government Approvals
+  "04": "http://drive.google.com/open?id=1v6q6DWZvX4t5_aljPGgC3umpcDn7afI8&resourcekey=", // Utilities
+  "05": "http://drive.google.com/open?id=1QbmnD7IZy4hnnKRj9c7bN58XNS5kKS_A&resourcekey=", // Infrastructure
+  "06": "http://drive.google.com/open?id=12gl2EqGlpJTEaGkWNNpmeaOQz_dARRsI&resourcekey=", // Environmental
+  "07": "http://drive.google.com/open?id=18hBAYJixg21ytNYY69ldi5LLGC3agz5F&resourcekey=", // Engineering
+  "08": "http://drive.google.com/open?id=1GxlyXQAExvO0yJmTih1hISZMp6XMXHfg&resourcekey=", // Architectural
+  "09": "http://drive.google.com/open?id=1W0V_GAysdUPszBBlu0E0JYyMQxhHrfEC&resourcekey=", // Financial Model
+  "10": "http://drive.google.com/open?id=1tlhKqKX8_LD88HsmyyoWdHW1ufcwQr8b&resourcekey=", // Legal
+  "11": "https://drive.google.com/drive/folders/1ft0A5mwltdw6Begop4gwggAgYmXyD8ji?usp=drive_link", // Market Research
+  "12": "https://drive.google.com/drive/folders/1JcU2oHuWPfSZ0iKsol8YC4uma4nhhpaJ?usp=drive_link", // Risk Analysis
+  "13": "https://drive.google.com/drive/folders/1tX1saJX22XjN1rXzDKisUXZ9xGKlOcMH?usp=drive_link", // Schedule
+  "14": "https://drive.google.com/drive/folders/1qdzw7naF4uKfVc6u9mczhIs9v6Czv8qc?usp=drive_link", // ESG
+  "15": "https://drive.google.com/drive/folders/1nu21YNe3pmg_plamWzCfVpmrdRS_RajW?usp=sharing", // Team
+  "16": "https://drive.google.com/drive/folders/1g0AvcaenPqOzdpXmHUbCOaYq1Noxr34t?usp=drive_link"  // Appendix
 };
