@@ -1,0 +1,38 @@
+﻿// ============================================================================
+// Kilifi Legacy Estates — Team Document Folders
+// ============================================================================
+// This is the ONLY file you need to edit to connect each data room section
+// to a shared Google Drive or Dropbox folder where your team can upload and
+// download documents.
+//
+// HOW TO USE:
+// 1. Create one shared folder per section in Google Drive or Dropbox
+//    (e.g. "01 - Property Information", "02 - Zoning & Planning", etc).
+// 2. Set sharing permissions for your team on each folder (view or edit access).
+// 3. Copy each folder's shareable link and paste it below, replacing the
+//    matching "REPLACE_ME_XX" placeholder.
+// 4. Save this file and re-upload/push it to GitHub.
+// 5. Each section page will automatically show a working "Open Shared Folder"
+//    button once its link is filled in — sections still showing the
+//    placeholder will show a disabled button with a reminder instead.
+// ============================================================================
+
+
+window.SECTION_DOCS = {
+  "01": "https://drive.google.com/drive/folders/1FdH9pLQ5Gjqjwj08NrERJCl01WIWaBiN", // Property Information
+  "02": "http://drive.google.com/open?id=1Hskz2wyX6pNj8kUuCN45yteHXwTO8jyy&resourcekey=", // Zoning & Planning
+  "03": "http://drive.google.com/open?id=1drDXJl7yxBrr23lUoMS7XDaelafHub-H&resourcekey=", // Government Approvals
+  "04": "http://drive.google.com/open?id=1v6q6DWZvX4t5_aljPGgC3umpcDn7afI8&resourcekey=", // Utilities
+  "05": "http://drive.google.com/open?id=1QbmnD7IZy4hnnKRj9c7bN58XNS5kKS_A&resourcekey=", // Infrastructure
+  "06": "http://drive.google.com/open?id=12gl2EqGlpJTEaGkWNNpmeaOQz_dARRsI&resourcekey=", // Environmental
+  "07": "http://drive.google.com/open?id=18hBAYJixg21ytNYY69ldi5LLGC3agz5F&resourcekey=", // Engineering
+  "08": "http://drive.google.com/open?id=1GxlyXQAExvO0yJmTih1hISZMp6XMXHfg&resourcekey=", // Architectural
+  "09": "http://drive.google.com/open?id=1W0V_GAysdUPszBBlu0E0JYyMQxhHrfEC&resourcekey=", // Financial Model
+  "10": "http://drive.google.com/open?id=1tlhKqKX8_LD88HsmyyoWdHW1ufcwQr8b&resourcekey=", // Legal
+  "11": "https://drive.google.com/drive/folders/1ft0A5mwltdw6Begop4gwggAgYmXyD8ji?usp=drive_link", // Market Research
+  "12": "https://drive.google.com/drive/folders/1JcU2oHuWPfSZ0iKsol8YC4uma4nhhpaJ?usp=drive_link", // Risk Analysis
+  "13": "https://drive.google.com/drive/folders/1tX1saJX22XjN1rXzDKisUXZ9xGKlOcMH?usp=drive_link", // Schedule
+  "14": "https://drive.google.com/drive/folders/1qdzw7naF4uKfVc6u9mczhIs9v6Czv8qc?usp=drive_link", // ESG
+  "15": "https://drive.google.com/drive/folders/1nu21YNe3pmg_plamWzCfVpmrdRS_RajW?usp=sharing", // Team
+  "16": "https://drive.google.com/drive/folders/1g0AvcaenPqOzdpXmHUbCOaYq1Noxr34t?usp=drive_link"  // Appendix
+};
